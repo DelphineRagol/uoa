@@ -1,6 +1,14 @@
 # UOAssistサポートファイル
 Ultima Online classic client操作補助ツール"UOAssist"の利便性を向上(?)するためのファイル群です。
 
+__目次__
+
+- [shadow_guard_throwing.cfg](#shadow_guard_throwingcfg)
+- [repair_deed_<修理スキル名>.cfg](#repair_deed_修理スキル名cfg)
+- [repair_deed_CHARGE.cfg](#repair_deed_chargecfg)
+- [launch_recovery.reg](#launch_recoveryreg)
+- [training.sh](#trainingsh)
+
 ## shadow_guard_throwing.cfg
 シャドウガード - バー・果樹園・武具屋の各ステージ向けに、アイテムを投げる動作を含むマクロです。
 
